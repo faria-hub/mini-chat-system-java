@@ -42,3 +42,5 @@ This project was created to practice:
 
 **Author: Faria Umeed Shah**
 --------Programming Fundamentals Semester Project----------
+
+⭐ If you found this project interesting, feel free to star the repository!
